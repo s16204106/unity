@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37da43e5099d45145b06bfc62f6ac25f, type: 3}
+  m_Name: WK_catapult
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3547577650536164293, guid: 11f81a26593645a48b17b30fe222db7d, type: 3}
+  sprite: {fileID: 21300000, guid: 87de3fb63f574914cb1645c051ed332c, type: 3}
+  attackProjectile: {fileID: 0}
+  uiname: "\u6295\u77F3\u8F66"
+  cost: 1
+  number: 1
+  health: 100
+  damage: 10
+  attackRange: 1
+  findRange: 100

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37da43e5099d45145b06bfc62f6ac25f, type: 3}
+  m_Name: WK_heavy_infantry
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 9008577155905585533, guid: 81dd4ac4d372d4a47a9c07ea7fafd954, type: 3}
+  sprite: {fileID: 21300000, guid: 99ac66d2e1d724849979a7dfb5bdd1fc, type: 3}
+  attackProjectile: {fileID: 0}
+  uiname: "\u6B65\u5175"
+  cost: 1
+  number: 3
+  health: 100
+  damage: 10
+  attackRange: 1
+  findRange: 100

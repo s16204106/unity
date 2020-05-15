@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: bf7cf6b959c7e90429526649378ad218
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RigWCentaur
+    100002: RigWCentaurFrontRLegFrontHoof
+    100004: RigWCentaurFrontRLegHumerus
+    100006: RigWCentaurFrontRLegMetacarpus
+    100008: RigWCentaurFrontRLegPhalangesManus
+    100010: RigWCentaurFrontRLegPlatform
+    100012: RigWCentaurFrontRLegRadius
+    100014: RigWCentaurFrontRLegScapula
+    100016: RigWCentaurHead
+    100018: RigWCentaurLArm1
+    100020: RigWCentaurLArm2
+    100022: RigWCentaurLArmCollarbone
+    100024: RigWCentaurLArmPalm
+    100026: RigWCentaurLFemur
+    100028: RigWCentaurLFrontHoof
+    100030: RigWCentaurLHumerus
+    100032: RigWCentaurLLargeCannon
+    100034: RigWCentaurLMetacarpus
+    100036: RigWCentaurLPhalangesManus
+    100038: RigWCentaurLPhalanxPrima
+    100040: RigWCentaurLPlatform
+    100042: RigWCentaurLPlatform 1
+    100044: RigWCentaurLRadius
+    100046: RigWCentaurLRearHoof
+    100048: RigWCentaurLScapula
+    100050: RigWCentaurLTibia
+    100052: RigWCentaurPalmBone001
+    100054: RigWCentaurPalmBone001 1
+    100056: RigWCentaurPalmBone001Bone001
+    100058: RigWCentaurPalmBone001Bone001 1
+    100060: RigWCentaurPalmBone002
+    100062: RigWCentaurPalmBone002 1
+    100064: RigWCentaurPalmBone002Bone001
+    100066: RigWCentaurPalmBone002Bone001 1
+    100068: RigWCentaurPalmBone003
+    100070: RigWCentaurPalmBone003 1
+    100072: RigWCentaurPalmBone003Bone001
+    100074: RigWCentaurPalmBone003Bone001 1
+    100076: RigWCentaurPalmBone003Bone001Bone001
+    100078: RigWCentaurPalmBone003Bone001Bone001 1
+    100080: RigWCentaurPelvis
+    100082: RigWCentaurRArm1
+    100084: RigWCentaurRArm2
+    100086: RigWCentaurRArmCollarbone
+    100088: RigWCentaurRArmPalm
+    100090: RigWCentaurRFemur
+    100092: RigWCentaurRibcage
+    100094: RigWCentaurRibcage001
+    100096: RigWCentaurRibcage002Bone001
+    100098: RigWCentaurRibcage002Bone002
+    100100: RigWCentaurRibcage002Bone002 1
+    100102: RigWCentaurRibcage002Bone002Bone001
+    100104: RigWCentaurRibcage002Bone002Bone001 1
+    100106: RigWCentaurRibcage002Bone002Bone001Bone001
+    100108: RigWCentaurRibcage002Bone002Bone001Bone001 1
+    100110: RigWCentaurRLargeCannon
+    100112: RigWCentaurRPhalanxPrima
+    100114: RigWCentaurRPlatform
+    100116: RigWCentaurRRearHoof
+    100118: RigWCentaurRTibia
+    100120: RigWCentaurSpine1
+    100122: RigWCentaurSpine1 1
+    100124: RigWCentaurSpine1 2
+    100126: RigWCentaurSpine2
+    100128: RigWCentaurSpine2 1
+    100130: RigWCentaurSpine2 2
+    100132: RigWCentaurSpine3
+    100134: RigWCentaurSpine3 1
+    100136: RigWCentaurSpine4
+    100138: RigWCentaurSpine4 1
+    100140: RigWCentaurSpine5
+    100142: RigWCentaurSpine5 1
+    100144: RigWCentaurSpine6
+    100146: RigWCentaurTail1
+    100148: RigWCentaurTail1 1
+    100150: RigWCentaurTail2
+    100152: RigWCentaurTail2 1
+    100154: RigWCentaurTail3
+    100156: RigWCentaurTail3 1
+    100158: RigWCentaurTail4
+    100160: RigWCentaurTail4 1
+    100162: RigWCentaurTail5
+    100164: RigWCentaurTail5 1
+    100166: RigWCentaurTail6
+    100168: RigWCentaurTail7
+    100170: //RootNode
+    400000: RigWCentaur
+    400002: RigWCentaurFrontRLegFrontHoof
+    400004: RigWCentaurFrontRLegHumerus
+    400006: RigWCentaurFrontRLegMetacarpus
+    400008: RigWCentaurFrontRLegPhalangesManus
+    400010: RigWCentaurFrontRLegPlatform
+    400012: RigWCentaurFrontRLegRadius
+    400014: RigWCentaurFrontRLegScapula
+    400016: RigWCentaurHead
+    400018: RigWCentaurLArm1
+    400020: RigWCentaurLArm2
+    400022: RigWCentaurLArmCollarbone
+    400024: RigWCentaurLArmPalm
+    400026: RigWCentaurLFemur
+    400028: RigWCentaurLFrontHoof
+    400030: RigWCentaurLHumerus
+    400032: RigWCentaurLLargeCannon
+    400034: RigWCentaurLMetacarpus
+    400036: RigWCentaurLPhalangesManus
+    400038: RigWCentaurLPhalanxPrima
+    400040: RigWCentaurLPlatform
+    400042: RigWCentaurLPlatform 1
+    400044: RigWCentaurLRadius
+    400046: RigWCentaurLRearHoof
+    400048: RigWCentaurLScapula
+    400050: RigWCentaurLTibia
+    400052: RigWCentaurPalmBone001
+    400054: RigWCentaurPalmBone001 1
+    400056: RigWCentaurPalmBone001Bone001
+    400058: RigWCentaurPalmBone001Bone001 1
+    400060: RigWCentaurPalmBone002
+    400062: RigWCentaurPalmBone002 1
+    400064: RigWCentaurPalmBone002Bone001
+    400066: RigWCentaurPalmBone002Bone001 1
+    400068: RigWCentaurPalmBone003
+    400070: RigWCentaurPalmBone003 1
+    400072: RigWCentaurPalmBone003Bone001
+    400074: RigWCentaurPalmBone003Bone001 1
+    400076: RigWCentaurPalmBone003Bone001Bone001
+    400078: RigWCentaurPalmBone003Bone001Bone001 1
+    400080: RigWCentaurPelvis
+    400082: RigWCentaurRArm1
+    400084: RigWCentaurRArm2
+    400086: RigWCentaurRArmCollarbone
+    400088: RigWCentaurRArmPalm
+    400090: RigWCentaurRFemur
+    400092: RigWCentaurRibcage
+    400094: RigWCentaurRibcage001
+    400096: RigWCentaurRibcage002Bone001
+    400098: RigWCentaurRibcage002Bone002
+    400100: RigWCentaurRibcage002Bone002 1
+    400102: RigWCentaurRibcage002Bone002Bone001
+    400104: RigWCentaurRibcage002Bone002Bone001 1
+    400106: RigWCentaurRibcage002Bone002Bone001Bone001
+    400108: RigWCentaurRibcage002Bone002Bone001Bone001 1
+    400110: RigWCentaurRLargeCannon
+    400112: RigWCentaurRPhalanxPrima
+    400114: RigWCentaurRPlatform
+    400116: RigWCentaurRRearHoof
+    400118: RigWCentaurRTibia
+    400120: RigWCentaurSpine1
+    400122: RigWCentaurSpine1 1
+    400124: RigWCentaurSpine1 2
+    400126: RigWCentaurSpine2
+    400128: RigWCentaurSpine2 1
+    400130: RigWCentaurSpine2 2
+    400132: RigWCentaurSpine3
+    400134: RigWCentaurSpine3 1
+    400136: RigWCentaurSpine4
+    400138: RigWCentaurSpine4 1
+    400140: RigWCentaurSpine5
+    400142: RigWCentaurSpine5 1
+    400144: RigWCentaurSpine6
+    400146: RigWCentaurTail1
+    400148: RigWCentaurTail1 1
+    400150: RigWCentaurTail2
+    400152: RigWCentaurTail2 1
+    400154: RigWCentaurTail3
+    400156: RigWCentaurTail3 1
+    400158: RigWCentaurTail4
+    400160: RigWCentaurTail4 1
+    400162: RigWCentaurTail5
+    400164: RigWCentaurTail5 1
+    400166: RigWCentaurTail6
+    400168: RigWCentaurTail7
+    400170: //RootNode
+    7400000: idle01
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: RigWCentaur
+        weight: 1
+      - path: RigWCentaurFrontRLegPlatform
+        weight: 1
+      - path: RigWCentaurLPlatform
+        weight: 1
+      - path: RigWCentaurLPlatform 1
+        weight: 1
+      - path: RigWCentaurPelvis
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurLFemur
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurLFemur/RigWCentaurLTibia
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurLFemur/RigWCentaurLTibia/RigWCentaurLLargeCannon
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurLFemur/RigWCentaurLTibia/RigWCentaurLLargeCannon/RigWCentaurLPhalanxPrima
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurLFemur/RigWCentaurLTibia/RigWCentaurLLargeCannon/RigWCentaurLPhalanxPrima/RigWCentaurLRearHoof
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurRFemur
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurRFemur/RigWCentaurRTibia
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurRFemur/RigWCentaurRTibia/RigWCentaurRLargeCannon
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurRFemur/RigWCentaurRTibia/RigWCentaurRLargeCannon/RigWCentaurRPhalanxPrima
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurRFemur/RigWCentaurRTibia/RigWCentaurRLargeCannon/RigWCentaurRPhalanxPrima/RigWCentaurRRearHoof
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurFrontRLegScapula
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurFrontRLegScapula/RigWCentaurFrontRLegHumerus
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurFrontRLegScapula/RigWCentaurFrontRLegHumerus/RigWCentaurFrontRLegRadius
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurFrontRLegScapula/RigWCentaurFrontRLegHumerus/RigWCentaurFrontRLegRadius/RigWCentaurFrontRLegMetacarpus
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurFrontRLegScapula/RigWCentaurFrontRLegHumerus/RigWCentaurFrontRLegRadius/RigWCentaurFrontRLegMetacarpus/RigWCentaurFrontRLegPhalangesManus
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurFrontRLegScapula/RigWCentaurFrontRLegHumerus/RigWCentaurFrontRLegRadius/RigWCentaurFrontRLegMetacarpus/RigWCentaurFrontRLegPhalangesManus/RigWCentaurFrontRLegFrontHoof
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurLScapula
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurLScapula/RigWCentaurLHumerus
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurLScapula/RigWCentaurLHumerus/RigWCentaurLRadius
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurLScapula/RigWCentaurLHumerus/RigWCentaurLRadius/RigWCentaurLMetacarpus
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurLScapula/RigWCentaurLHumerus/RigWCentaurLRadius/RigWCentaurLMetacarpus/RigWCentaurLPhalangesManus
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurLScapula/RigWCentaurLHumerus/RigWCentaurLRadius/RigWCentaurLMetacarpus/RigWCentaurLPhalangesManus/RigWCentaurLFrontHoof
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm/RigWCentaurPalmBone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm/RigWCentaurPalmBone001/RigWCentaurPalmBone001Bone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm/RigWCentaurPalmBone002
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm/RigWCentaurPalmBone002/RigWCentaurPalmBone002Bone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm/RigWCentaurPalmBone003
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm/RigWCentaurPalmBone003/RigWCentaurPalmBone003Bone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurLArmCollarbone/RigWCentaurLArm1/RigWCentaurLArm2/RigWCentaurLArmPalm/RigWCentaurPalmBone003/RigWCentaurPalmBone003Bone001/RigWCentaurPalmBone003Bone001Bone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm/RigWCentaurPalmBone001
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm/RigWCentaurPalmBone001
+          1/RigWCentaurPalmBone001Bone001 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm/RigWCentaurPalmBone002
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm/RigWCentaurPalmBone002
+          1/RigWCentaurPalmBone002Bone001 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm/RigWCentaurPalmBone003
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm/RigWCentaurPalmBone003
+          1/RigWCentaurPalmBone003Bone001 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurRArmCollarbone/RigWCentaurRArm1/RigWCentaurRArm2/RigWCentaurRArmPalm/RigWCentaurPalmBone003
+          1/RigWCentaurPalmBone003Bone001 1/RigWCentaurPalmBone003Bone001Bone001 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurRibcage002Bone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurRibcage002Bone002
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurRibcage002Bone002/RigWCentaurRibcage002Bone002Bone001
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurRibcage002Bone002/RigWCentaurRibcage002Bone002Bone001
+          1/RigWCentaurRibcage002Bone002Bone001Bone001 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurRibcage002Bone002
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurRibcage002Bone002
+          1/RigWCentaurRibcage002Bone002Bone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurRibcage002Bone002
+          1/RigWCentaurRibcage002Bone002Bone001/RigWCentaurRibcage002Bone002Bone001Bone001
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurTail1
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurTail1
+          1/RigWCentaurTail2 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurTail1
+          1/RigWCentaurTail2 1/RigWCentaurTail3 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurTail1
+          1/RigWCentaurTail2 1/RigWCentaurTail3 1/RigWCentaurTail4 1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurSpine1/RigWCentaurSpine2/RigWCentaurSpine3/RigWCentaurSpine4/RigWCentaurSpine5/RigWCentaurSpine6/RigWCentaurRibcage/RigWCentaurSpine1
+          1/RigWCentaurSpine2 1/RigWCentaurSpine3 1/RigWCentaurSpine4 1/RigWCentaurSpine5
+          1/RigWCentaurRibcage001/RigWCentaurSpine1 2/RigWCentaurSpine2 2/RigWCentaurHead/RigWCentaurTail1
+          1/RigWCentaurTail2 1/RigWCentaurTail3 1/RigWCentaurTail4 1/RigWCentaurTail5
+          1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurTail1
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurTail1/RigWCentaurTail2
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurTail1/RigWCentaurTail2/RigWCentaurTail3
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurTail1/RigWCentaurTail2/RigWCentaurTail3/RigWCentaurTail4
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurTail1/RigWCentaurTail2/RigWCentaurTail3/RigWCentaurTail4/RigWCentaurTail5
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurTail1/RigWCentaurTail2/RigWCentaurTail3/RigWCentaurTail4/RigWCentaurTail5/RigWCentaurTail6
+        weight: 1
+      - path: RigWCentaurPelvis/RigWCentaurTail1/RigWCentaurTail2/RigWCentaurTail3/RigWCentaurTail4/RigWCentaurTail5/RigWCentaurTail6/RigWCentaurTail7
+        weight: 1
+      - path: RigWCentaurRPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0130000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
